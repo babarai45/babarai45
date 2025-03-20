@@ -8,12 +8,12 @@ I am a Bachelor's student pursuing Data Science at Superior University, Lahore, 
 - 💻 I have hands-on experience with Python, Django, Flask API, Machine Learning algorithms, and Data Science libraries like Pandas, NumPy, Scikit-learn, TensorFlow, and Keras.
 - 🌐 I also have experience in developing web applications using HTML, CSS, and Bootstrap, and I'm proficient in database management with SQL.
 - 💬 Ask me about anything related to Python, Django, Flask API, Machine Learning, Data Science, Web Development, or Database Management.
-- 📫 How to reach me: [Your Email Address] | [Your LinkedIn Profile]
+- 📫 How to reach me: [muhammadbabarict1@gmail.com] | [https://www.linkedin.com/in/muhammad-babar-ai-565b682a1/]
 
 ## Skills
 - Python
 - Django
-- Flask API
+- Flask & FAST API
 - Machine Learning
 - Data Science
 - HTML
